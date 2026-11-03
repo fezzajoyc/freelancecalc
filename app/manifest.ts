@@ -5,7 +5,7 @@ export default function manifest(): MetadataRoute.Manifest {
     name: "FreelanceCalc — freelance rate and money calculators",
     short_name: "FreelanceCalc",
     description:
-      "120+ free online tools that run entirely in your browser. Files never leave your device.",
+      "4+ free online tools that run entirely in your browser. Files never leave your device.",
     start_url: "/en",
     display: "standalone",
     background_color: "#ffffff",
