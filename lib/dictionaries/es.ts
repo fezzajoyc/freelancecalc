@@ -19,6 +19,10 @@ const es: Dictionary = {
     heroSub:
       "{n} calculadoras para todo el ciclo del dinero freelance — del sueldo objetivo a la tarifa por hora, presupuestos, facturas y salud de tu tarifa. Cada fórmula a la vista, cada número calculado localmente en tu navegador.",
     browseAll: "Ver todas las herramientas",
+    pinned: "Fijados",
+    pin: "Fijar arriba",
+    unpin: "Quitar de fijados",
+    popular: "Populares ahora",
     categoriesTitle: "Categorías",
     featuredTitle: "Herramientas populares",
     trustLocal: "Tus archivos permanecen en tu dispositivo",
@@ -74,6 +78,8 @@ const es: Dictionary = {
     howTo: "Cómo usarlo",
     faq: "Preguntas frecuentes",
     related: "Herramientas relacionadas",
+    nextStep: "Siguientes pasos",
+    copyLink: "Copiar enlace",
     privacyNote:
       "Esta herramienta funciona por completo en tu navegador. Tus datos nunca salen de tu dispositivo y no se suben a ningún servidor.",
     inCategory: "Más de {category}",
